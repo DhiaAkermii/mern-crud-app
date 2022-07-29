@@ -1,7 +1,7 @@
 # mern-crud-app
 This a simple application to help the people who want to learn how to create a simple crud.
 
-![p2](https://user-images.githubusercontent.com/65496901/181806283-758931e5-5b72-4d87-b98c-5bda33ced6f8.PNG)
+![add gif](https://user-images.githubusercontent.com/65496901/181809623-a91c408e-c87b-4068-b39a-707635934051.gif)
 ![p1](https://user-images.githubusercontent.com/65496901/181806280-1efbeb93-d45d-476d-bd8a-45effb6f68ae.PNG)
 
 to run this application you need to 
