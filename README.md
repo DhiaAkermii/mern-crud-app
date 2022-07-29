@@ -1,5 +1,5 @@
 # mern-crud-app
-This a simple mern crud application to help people to learn how to create simple crud.
+This a simple application to help the people who want to learn how to create a simple crud.
 
 to run this application you need to 
 
