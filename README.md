@@ -2,7 +2,8 @@
 This a simple application to help the people who want to learn how to create a simple crud.
 
 ![add gif](https://user-images.githubusercontent.com/65496901/181809623-a91c408e-c87b-4068-b39a-707635934051.gif)
-https://user-images.githubusercontent.com/65496901/181816446-e589e034-5576-4736-b03f-be8082b42433.mp4
+![p1](https://user-images.githubusercontent.com/65496901/181816733-a3217902-c460-4263-89d4-2b7ae85d528e.PNG)
+
 
 to run this application you need to 
 
