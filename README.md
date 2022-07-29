@@ -25,5 +25,5 @@ to run this application you need to
 
 6- start the frontend with the command npm start
 
-And that's it ! I hope you find it helpful
+And that's it! I hope you find it helpful.
 
