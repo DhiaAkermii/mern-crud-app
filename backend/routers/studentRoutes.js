@@ -11,8 +11,8 @@ import {
 const router = express.Router();
 
 
-router.post("/create-student", createStudent);
-router.get("/students",getStudents)
+router.post("/create", createStudent);
+router.get("/all",getStudents)
 router.get("/student/:id",getStudentById)
 router.delete("/delete/:id",deleteStudent)
 router.put("/update/:id",updateStudent)

@@ -1,9 +1,9 @@
 import axios from 'axios'
 
-const BASE_URL = `http://localhost:8000/student`
+const BASE_URL = `http://localhost:8000/students`
 
 export  const fetchStudents =  async () => {
-         return axios.get(`${BASE_URL}/students`)  
+         return axios.get(`${BASE_URL}/all`)  
 }
 
 export const getOneStudent = async (id) => {
@@ -12,7 +12,7 @@ export const getOneStudent = async (id) => {
 
 export const addStudent = async (newStudent) => {
    console.log(newStudent)
-   await axios.post(`${BASE_URL}/create-student/`,newStudent).then((response) =>{
+   await axios.post(`${BASE_URL}/create/`,newStudent).then((response) =>{
       console.log(response.data)
       return window.location.reload(false);
    

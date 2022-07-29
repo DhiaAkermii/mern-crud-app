@@ -21,7 +21,7 @@ app.listen(port, function() {
     console.log("Server is running on port:" + port);
 });
 
-app.use('/student',studentRouter);
+app.use('/students',studentRouter);
 
 const con = await connectDb()
 console.log(`${con.connection.host} \nMongoDB Connected`)
