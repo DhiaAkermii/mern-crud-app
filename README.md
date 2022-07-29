@@ -1,4 +1,9 @@
-# mern-crud-app
+
+######################################
+#### mern-crud-app by Dhia Akermi ####
+######################################
+
+
 This a simple application to help the people who want to learn how to create a simple crud.
 
 ![add gif](https://user-images.githubusercontent.com/65496901/181809623-a91c408e-c87b-4068-b39a-707635934051.gif)
